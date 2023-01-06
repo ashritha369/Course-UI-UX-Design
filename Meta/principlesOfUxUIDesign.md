@@ -101,9 +101,9 @@ After completing the lesson items, you will be able to:
 
 - Write a test script based on your wireframe and prototype.
 
-## WEEK 1
+# WEEK 1 : INTRODUCTION TO UX/UI DESIGN
 
-### Introduction to UX/UI Design
+## COURSE INTRODUCTION
 
 - UI- User Interface
 - UX- User Experience
@@ -127,3 +127,40 @@ After completing the lesson items, you will be able to:
 
 - UX designer will research and identify needs and proposes solution via prototypes.
 - UI Engineer will create logical and beautiful layouts with interactive flows with systemized designed library.
+
+## WHAT IS UX?
+
+--> **UX GOALS**
+
+- UX includes everything related to all the interactions that a user has with a company, its services and products.
+
+  **Usability** : Usability gauges how intuitive or easier product is to use. Jacob Nielsen's, a highly recognized professional in the field of usability, proposes that you can evaluate usability through five usability components. They are learnability, efficiency, memorability, errors, and satisfaction.
+
+- Learnability
+- Efficiency
+- Memorability
+- Errors
+- Satisfaction
+
+1. Learnability
+   Let's start with learnability. When his customers are trying to order for delivery, Adrian wants the process to be easy to learn from the first time they do it.
+2. Efficiency
+   The second component is efficiency. What if users want to change their order? Is it easy to do, and can they do it quickly and efficiently?
+3. Memorability
+   Third, comes memorability. What if a user gets distracted? Is it easy to remember where they were when they return? How quickly can they find where they were?
+4. Errors
+   Next, go to usability needs to consider errors. What if a user makes a mistake? The design should provide solutions to these mistakes and address them before they happen.
+5. Satisfaction
+   Finally, comes satisfaction. Is the website pleasant or satisfying to use? Do users enjoy using it? Is it easy to use? Measuring user satisfaction is not an easy task. However, you know how it feels when you use an intuitive and well-designed product. It helps to think about the usability, quality components at all stages of your design. If you consider them from the outset, you will solve problems earlier in the process.
+
+--> **Empathy tools: Artifacts in the UX process**
+
+![Image](./WEEK-1/Imgs/2.png)
+![Image](./WEEK-1/Imgs/3.png)
+![Image](./WEEK-1/Imgs/4.png)
+![Image](./WEEK-1/Imgs/5.png)
+![Image](./WEEK-1/Imgs/6.png)
+![Image](./WEEK-1/Imgs/7.png)
+![Image](./WEEK-1/Imgs/8.png)
+![Image](./WEEK-1/Imgs/9.png)
+![Image](./WEEK-1/Imgs/10.png)
